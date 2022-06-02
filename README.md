@@ -16,6 +16,24 @@ Wifi and Bluetooth- Intel Dual Band AC (AC7265N)
 ========================================================================================
 
 All works Pretty Fine!
+
+CPU - WORK
+
+GPU - UHD630 Only!
+
+Audio - Work Fine and Bluetooth Audio too!
+
+SSD (sata/nvme) / HDD Support
+
+Wi-Fi / Bluetooth - WORK
+
+Keyboard and TouchPad - Work (Buttons TouchPad not work, use this instruction - https://support.apple.com/en-us/HT204609 )
+
+FN Buttons Work Fine!
+
+Battery - Work (Charge to 100% in Windows, install MacOs, then replug connector)
+
+
 ![alt text](https://lh3.googleusercontent.com/pw/AM-JKLUpJ7CadN9iLqcNbbNeuuGE4_cle8AjEF6uGR0nYdQnePywEJMDkz4eMIQMEdi6aLDl6llc8Jg5nb7jT2dAMVrNFhuMihf3xnHmZUk016aHbKFnmaMrBa7rCl2qW6qVN01SPn7ZLxK6FMxa1kpwe-h1UA=w1508-h1132-no?authuser=0)
 
 
