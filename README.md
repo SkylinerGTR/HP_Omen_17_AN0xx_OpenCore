@@ -49,4 +49,6 @@ Use Instruction for generate your SMBIOS ( https://dortania.github.io/OpenCore-I
 
 In BIOS setup unlock Secure Boot, thats all!
 
+If your Flash not boot, try edit Config.plist - Misc - Boot - showpicker = True
+
 AN0xx series don't have CFG LOCK
